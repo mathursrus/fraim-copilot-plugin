@@ -1,6 +1,6 @@
 {
   "name": "fraim",
-  "version": "2.0.179",
+  "version": "2.0.180",
   "description": "Run FRAIM jobs, skills, rules, evidence, and mentoring workflows from VS Code or GitHub Copilot CLI.",
   "author": {
     "name": "FRAIM",
