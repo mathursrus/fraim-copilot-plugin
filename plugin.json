@@ -4,7 +4,7 @@
   "description": "Run FRAIM jobs, skills, rules, evidence, and mentoring workflows from VS Code or GitHub Copilot CLI.",
   "author": {
     "name": "FRAIM",
-    "email": "support@fraimworks.ai",
+    "email": "sid@wellnessatwork.me",
     "url": "https://fraimworks.ai"
   },
   "skills": "skills/",
