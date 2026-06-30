@@ -1,13 +1,12 @@
 {
   "name": "fraim",
-  "version": "2.0.180",
-  "description": "Run FRAIM jobs, skills, rules, evidence, and mentoring workflows from VS Code or GitHub Copilot CLI.",
+  "version": "2.0.181",
+  "description": "FRAIM workflow skills for Copilot: scope work, choose a phased job pattern, address feedback, and produce acceptance evidence.",
   "author": {
     "name": "FRAIM",
     "email": "sid@wellnessatwork.me",
     "url": "https://fraimworks.ai"
   },
   "skills": "skills/",
-  "commands": "commands/",
-  "mcpServers": ".mcp.json"
+  "commands": "commands/"
 }

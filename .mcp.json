@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "fraim": {
-      "type": "http",
-      "url": "https://fraim.wellnessatwork.me/mcp"
-    }
-  }
-}
